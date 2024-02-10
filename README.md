@@ -19,7 +19,7 @@
    
    <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/ScikitLearn-Dark.svg" alt="SkLearn" width="50" height="50">
    
-   <img src="https://github.com/MIDHUNGRAJ/icons/blob/main/icons/gradio-modified.png" alt="Gradio" width="50" height="50">
+   <img src="https://github.com/MIDHUNGRAJ/icons/blob/main/icons/gradio.png" alt="Gradio" width="50" height="50">
 
    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50">
 
