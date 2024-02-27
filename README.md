@@ -33,7 +33,15 @@
 
    <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/GitLab-Dark.svg" alt="GItLab" width="50" height="50">
 
+   <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/Github-Dark.svg" alt="Github" width="50" height="50">
+
    <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/Docker.svg" alt="Docker" width="50" height="50">
+
+   <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/Kubernetes.svg" alt="Kubernetes" width="50" height="50">
+
+   <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="50" height="50">
+
+   <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/VisualStudio-Dark.svg" alt="VisualStudio" width="50" height="50">
    
    <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/Bash-Dark.svg" alt="Bash" width="50" height="50">
 
