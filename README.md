@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/midhun.g.raj) 
 
-- 📫 How to reach me **midhungraj.ml@gmail.com**
+- 📫 How to reach me **neurobyte.ml@gmail.com**
 
 # 💻 Tech Stack:
 <div style="display: flex; justify-content: space-around; align-items: center;">
