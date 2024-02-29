@@ -46,16 +46,10 @@
    <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/Bash-Dark.svg" alt="Bash" width="50" height="50">
 
    <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/Linux-Dark.svg" alt="Linux" width="50" height="50">
-
-   <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/Arduino.svg" alt="Arduino" width="50" height="50">
-
-   <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/RaspberryPi-Dark.svg" alt="RaspberryPi" width="50" height="50">
    
    <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/Anaconda-Dark.svg" alt="Anaconda" width="50" height="50">
 
    <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/AWS-Dark.svg" alt="AWS" width="50" height="50">
-
-   <img src="https://raw.githubusercontent.com/MIDHUNGRAJ/icons/main/icons/Cloudflare-Dark.svg" alt="Cloudflare" width="50" height="50">
 
 </div>
 
