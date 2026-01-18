@@ -1,19 +1,8 @@
-## 📌 Featured Repositories
+## 📦 Projects
 
-<p align="center">
-  <a href="https://github.com/MIDHUNGRAJ/autoforge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIDHUNGRAJ&repo=autoforge" />
-  </a>
-  <a href="https://github.com/MIDHUNGRAJ/SmartSearchQA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIDHUNGRAJ&repo=SmartSearchQA" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MIDHUNGRAJ/Machine_Learning_From_Scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIDHUNGRAJ&repo=Machine_Learning_From_Scratch" />
-  </a>
-  <a href="https://github.com/MIDHUNGRAJ/InceptionV3_Image_Classifier">
-    <img src="https://github.com/MIDHUNGRAJ/InceptionV3_Image_Classifier" />
-  </a>
-</p>
+| Repository | Focus |
+|-----------|-------|
+| [autoforge](https://github.com/MIDHUNGRAJ/autoforge) | ML library (Python) |
+| [Machine_Learning_From_Scratch](https://github.com/MIDHUNGRAJ/Machine_Learning_From_Scratch) | Core ML algorithms |
+| [Deep-Face-Net](https://github.com/MIDHUNGRAJ/Deep-Face-Net) | Face representation learning |
+| [GANs-Implementation-PyTorch](https://github.com/MIDHUNGRAJ/GANs-Implementation-PyTorch) | GAN experimentation |
