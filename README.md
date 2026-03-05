@@ -10,4 +10,3 @@
 | [GANs-Implementation-PyTorch](https://github.com/MIDHUNGRAJ/GANs-Implementation-PyTorch) | GAN implementations (PyTorch) |
 | [FashionMNIST-CGAN](https://github.com/MIDHUNGRAJ/FashionMNIST-CGAN) | Conditional GAN (FashionMNIST) |
 
-https://www.thegitcity.com/dev/midhungraj
