@@ -3,7 +3,7 @@
 | Repository | Focus |
 |----------|-------|
 | [autoforge](https://github.com/MIDHUNGRAJ/autoforge) | Machine learning library (Python) |
-| [Deep-Face-Net](https://github.com/MIDHUNGRAJ/Deep-Face-Net) | Real-time face swapping |
+| [Deep-Face-Net](https://github.com/polynet-org/Deep-Face-Net) | Real-time face swapping |
 | [Machine_Learning_From_Scratch](https://github.com/MIDHUNGRAJ/Machine_Learning_From_Scratch) | ML algorithms from scratch |
 | [SmartSearchQA](https://github.com/MIDHUNGRAJ/SmartSearchQA) | AI-powered question answering |
 | [InceptionV3_Image_Classifier](https://github.com/MIDHUNGRAJ/InceptionV3_Image_Classifier) | Image classification (InceptionV3) |
