@@ -17,7 +17,7 @@
 
   </td>
   <td align="center" valign="middle">
-<img width="736" height="1308" alt="_" src="https://github.com/user-attachments/assets/998bcb0d-e7e7-403a-91fc-fdd42b220a88" />
+<img width="768" height="1365" alt="Gemini_Generated_Image_rjp0kfrjp0kfrjp0" src="https://github.com/user-attachments/assets/1aa6bb24-c795-4043-a60e-d14e3e8c6d09" />
   </td>
     </tr>
   </table>
