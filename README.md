@@ -17,7 +17,7 @@
 
   </td>
   <td align="center" valign="middle">
-<img width="413" height="604" alt="astro-naughty" src="https://github.com/user-attachments/assets/73bde5f6-1ec6-40b2-a334-2953d093a921" />
+<img width="736" height="1308" alt="_" src="https://github.com/user-attachments/assets/998bcb0d-e7e7-403a-91fc-fdd42b220a88" />
   </td>
     </tr>
   </table>
