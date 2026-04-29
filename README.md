@@ -2,6 +2,7 @@
 
 | Repository | Focus |
 |----------|-------|
+| [paper-replications](https://github.com/MIDHUNGRAJ/paper-replications) | Paper Replications
 | [Deep-Face-Net](https://github.com/polynet-org/Deep-Face-Net) | Real-time face swapping |
 | [autoforge](https://github.com/MIDHUNGRAJ/autoforge) | Machine learning library (Python) |
 | [Machine_Learning_From_Scratch](https://github.com/MIDHUNGRAJ/Machine_Learning_From_Scratch) | ML algorithms from scratch |
