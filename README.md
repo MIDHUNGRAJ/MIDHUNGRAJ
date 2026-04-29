@@ -17,7 +17,7 @@
 
   </td>
   <td align="center" valign="middle">
-<img width="768" height="1365" alt="Gemini_Generated_Image_rjp0kfrjp0kfrjp0" src="https://github.com/user-attachments/assets/1aa6bb24-c795-4043-a60e-d14e3e8c6d09" />
+    <img width="1024" height="1536" alt="midhungraj_armed" src="https://github.com/user-attachments/assets/27a2c7dc-c2ec-436d-bf4f-b5c8f249b3fc" />
   </td>
     </tr>
   </table>
