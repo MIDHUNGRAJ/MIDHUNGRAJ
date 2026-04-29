@@ -17,7 +17,7 @@
 
   </td>
   <td align="center" valign="middle">
-    <img width="1024" height="1536" alt="midhungraj_armed" src="https://github.com/user-attachments/assets/27a2c7dc-c2ec-436d-bf4f-b5c8f249b3fc" />
+<img width="1086" height="1448" alt="midhungraj_armed_github" src="https://github.com/user-attachments/assets/a371804f-7d0e-43e2-9d43-7e5755d35588" />
   </td>
     </tr>
   </table>
